@@ -5,8 +5,8 @@
 \deftab720
 \pard\pardeftab720\sl280\partightenfactor0
 
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Git is a distributed version control system.\cf0 \outl0\strokewidth0 \
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+Git is a distributed version control system.\
 \pard\pardeftab720\sl280\partightenfactor0
-\cf0 Git is free software.\
+\cf2 \outl0\strokewidth0 \strokec2 Git is free software distributed under the GPL.\cf0 \outl0\strokewidth0 \
 }
