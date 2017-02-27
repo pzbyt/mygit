@@ -8,7 +8,6 @@
 \f0\fs24 \cf0 \expnd0\expndtw0\kerning0
 Git is a distributed version control system.\
 Git is free software distributed under the GPL.\
-\pard\pardeftab720\sl280\partightenfactor0
-\cf0 Git has a mutable index called stage.\
-Git tracks changes.\
+Git has a mutable index called stage.\
+Git tracks changes of files.\
 }
